@@ -7,3 +7,18 @@ This project showcases an interactive Retail Sales Insights Dashboard built usin
 <a href="https://github.com/NagaThanu18/Retail-Sales-Insights-Dashboard/blob/main/Data%20Analysis.xlsx">Dataset</a>
 
 ## Questions(KPIs)
+
+● Which city has the highest profit margin on sales?
+
+● What percentage of total sales is contributed by each product category?
+
+● Which region has the highest share of total sales?
+
+● What is the percentage contribution of each region to overall sales?
+
+● How does sales performance vary by region?
+
+● What is the percentage contribution of highest region?
+
+● Which region has the lowest share of total sales?
+
