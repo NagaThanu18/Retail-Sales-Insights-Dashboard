@@ -26,3 +26,9 @@ Dashboard Interation <a href="https://github.com/NagaThanu18/Retail-Sales-Insigh
 
 ## Process
 
+-Import and clean retail sales data using Power Query to ensure accuracy and consistency.
+
+-Model the data with relationships between sales, products, customers, and regions using a star schema.
+
+-Design visuals such as bar charts, line graphs, KPIs, maps, and pie charts to represent sales insights clearly.
+
