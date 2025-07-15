@@ -50,5 +50,8 @@ Dashboard Interation <a href="https://github.com/NagaThanu18/Retail-Sales-Insigh
 
 -City-wise and country-wise sales analysis reveals major urban centers as key contributors to revenue.
 
+## Final Conclusion
+
+The Retail Sales Insights Dashboard delivers a comprehensive analysis of sales and profit performance across categories, regions, and geographies. The Technology category emerged as the top contributor to total sales, with the Phones sub-category leading among all sub-categories. The West region outperformed all other regions, driving the highest revenue, while the South region showed the lowest sales, highlighting potential areas for strategic focus.
 
 
