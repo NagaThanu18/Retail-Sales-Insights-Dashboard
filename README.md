@@ -32,3 +32,4 @@ Dashboard Interation <a href="https://github.com/NagaThanu18/Retail-Sales-Insigh
 
 -Design visuals such as bar charts, line graphs, KPIs, maps, and pie charts to represent sales insights clearly.
 
+## Dashboard
