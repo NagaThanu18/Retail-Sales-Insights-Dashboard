@@ -22,3 +22,7 @@ This project showcases an interactive Retail Sales Insights Dashboard built usin
 
 ● Which region has the lowest share of total sales?
 
+Dashboard Interation <a href="https://github.com/NagaThanu18/Retail-Sales-Insights-Dashboard/blob/main/Dashboard%20Image%20.jpg">View Dashboard</a>
+
+## Process
+
