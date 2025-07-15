@@ -36,5 +36,19 @@ Dashboard Interation <a href="https://github.com/NagaThanu18/Retail-Sales-Insigh
 
 ![Dashboard Image ](https://github.com/user-attachments/assets/7a07bc49-45cb-4fd3-9997-09ba47c1d1b1)
 
+## Project Insights
+
+-Overall profit shows steady growth, driven primarily by high-performing product categories.
+
+-Phones sub-category records the highest sales, making it the top-selling sub-category.
+
+-Technology category leads in total sales, reflecting strong customer demand for tech products.
+
+-West region generates the highest revenue, positioning it as the most profitable region.
+
+-South region reports the lowest sales, indicating a need for targeted growth strategies.
+
+-City-wise and country-wise sales analysis reveals major urban centers as key contributors to revenue.
+
 
 
